@@ -8,10 +8,21 @@ This portfolio is a compilation of code which I created for data science or for 
 [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/SpaceX-Capstone)
  
 ## Regression problems:
-* #### House Price Prediction with Python (linear regression example)<br>
-    In this task on House Price Prediction using machine learning, our task is to use data from the California census to create a machine learning model to predict house prices in the State. The data includes features such as population, median income, and median house prices for each block group in California. <br>
-[![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/House-Price-Prediction-with-Python-simple-regression-example-)
  
 
 
 ## Pyspark:
+* #### Simple Data queries using Pyspark<br>
+    Basic Pyspark queries, setting up google colab for distributed data processing, importing our Dataset into Pyspark dataframe and applying some queries to extract information out of our data.
+    <br>
+[![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/Data-Analysis-using-Pyspark)
+ 
+ 
+ 
+## Data Science : [![](https://badgen.net/badge/101/examples/black)]()
+* ####  Breast Cancer Prediction 
+    Simple classification example using logistic regression and feature standarization.<br>
+[![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/classification-101_breast_cancer_prediction)
+* #### House Price Prediction with Python (linear regression example)<br>
+    In this task on House Price Prediction using machine learning, our task is to use data from the California census to create a machine learning model to predict house prices in the State. The data includes features such as population, median income, and median house prices for each block group in California. <br>
+[![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/House-Price-Prediction-with-Python-simple-regression-example-)
