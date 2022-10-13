@@ -8,8 +8,9 @@ This portfolio is a compilation of code which I have created for data science or
 [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/SpaceX-Capstone)
  
 ## Regression problems:
- 
-
+ * ####  Used Car Price Prediction<br>
+    In this hands-on project, we train 3 Machine Learning algorithms namely Multiple Linear Regression, Random Forest Regression, and XG-Boost to predict used cars prices. This project can be used by car dealerships to predict used car prices and understand the key factors that contribute to used car prices.<br>
+[![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/used-car-price-prediction)
 
 ## Pyspark:
 * #### Simple Data queries using Pyspark<br>
