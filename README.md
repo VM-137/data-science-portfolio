@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-This portfolio is a compilation of code which I created for data science or for exploration of machine learning algorithms.
+This portfolio is a compilation of code which I have created for data science or for exploration of machine learning algorithms.
 
 ## Classification Problems:
 * ####  SpaceX Capstone <br>
