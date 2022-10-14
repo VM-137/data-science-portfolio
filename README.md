@@ -27,3 +27,10 @@ This portfolio is a compilation of code which I have created for data science or
 * #### House Price Prediction with Python (linear regression example)<br>
     In this task on House Price Prediction using machine learning, our task is to use data from the California census to create a machine learning model to predict house prices in the State. The data includes features such as population, median income, and median house prices for each block group in California. <br>
 [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/House-Price-Prediction-with-Python-simple-regression-example-)
+
+* #### Titanic - Machine Learning from Disaster (Kaggle competition)<br>
+    The sinking of the Titanic is one of the most infamous shipwrecks in history.
+In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc). <br>
+[![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/kaggle-titanic-disaster-)
+
+
