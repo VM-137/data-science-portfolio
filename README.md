@@ -20,7 +20,7 @@ This portfolio is a compilation of code which I have created for data science or
  
  
  
-## Data Science : [![](https://badgen.net/badge/101/examples/black)]()
+## Data Science 101: [![](https://badgen.net/badge/101/examples/black)]()
 * ####  Breast Cancer Prediction 
     Simple classification example using logistic regression and feature standarization.<br>
 [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/classification-101_breast_cancer_prediction)
