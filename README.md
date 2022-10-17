@@ -34,3 +34,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/kaggle-titanic-disaster-)
 
 
+## Data Engineering 101: [![](https://badgen.net/badge/101/examples/black)]()
+* #### Demo Multi Cloud Continuous Integration Github Actions<br>
+    Simple demo of continous integration using Github Actions to perform tests using AWS, Azure or GCP <br>
+[![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/demo-multi-cloud-continuous-integration-github-actions-)
