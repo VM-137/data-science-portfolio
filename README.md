@@ -12,6 +12,12 @@ This portfolio is a compilation of code which I have created for data science or
     In this hands-on project, we train 3 Machine Learning algorithms namely Multiple Linear Regression, Random Forest Regression, and XG-Boost to predict used cars prices. This project can be used by car dealerships to predict used car prices and understand the key factors that contribute to used car prices.<br>
 [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/used-car-price-prediction)
 
+## AWS:
+ * ####  Detect data bias with Amazon SageMaker Clarify<br>
+    Bias can be present in your data before any model training occurs. Inspecting the dataset for bias can help detect collection gaps, inform your feature engineering, and understand societal biases the dataset may reflect. In this lab I will analyze bias on the dataset, generate and analyze bias report, and prepare the dataset for the model training.<br>
+AWS services: (S3, SageMaker)<br>
+[![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/data-bias-detection-with-AWS-SageMaker-Clarify)
+
 ## Pyspark:
 * #### Simple Data queries using Pyspark<br>
     Basic Pyspark queries, setting up google colab for distributed data processing, importing our Dataset into Pyspark dataframe and applying some queries to extract information out of our data.
